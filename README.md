@@ -15,5 +15,5 @@ DriveReach is a web application that helps users find and book trusted drivers n
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/singh-harsh-03/DriveReach.git
+git clone https://github.com/singh-harsh-03/DriveConnect.git
 cd DriveReach
