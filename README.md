@@ -1,12 +1,19 @@
-# React + Vite
+# DriveReach 🚗
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DriveReach is a web application that helps users find and book trusted drivers nearby. It includes **Google Maps integration** for real-time tracking and a seamless booking experience.
 
-Currently, two official plugins are available:
+## 🔹 Features
+✅ **Find Nearby Drivers**  
+✅ **Live Location Tracking (Google Maps API)**  
+✅ **Owner & Driver Dashboards**  
+✅ **Modern UI with Tailwind CSS**  
+✅ **Booking System for Drivers**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/singh-harsh-03/DriveReach.git
+cd DriveReach
